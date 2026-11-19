@@ -108,7 +108,4 @@ ggplot(QIBC_data, aes(x = condition, y = log10(Mean.Intensity.A546.FH), fill = c
   plot_layout(ncol = 1)
 ```
 
-```{=html}
-<img src="man/figures/README-unnamed-chunk-3-1.png"
-style="width:100.0%" />
-```
+![](man/figures/README-unnamed-chunk-3-1.png)
